@@ -4,7 +4,7 @@ Analyzing banking data
 
 Courtesy of Google's BARD:
 
-## Here are some ideas for data science projects you can create for your portfolio using data on banks that failed and banks that needed assistance:
+## Here are some ideas for data science projects to create using data on banks that failed and banks that needed assistance:
 
 1. Develop a predictive model for bank failure. This project would involve using a variety of data mining techniques to identify patterns and risk factors that are associated with bank failure. You could then use these patterns and risk factors to develop a model that can predict the likelihood of failure for other banks.
 
