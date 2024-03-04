@@ -2,7 +2,7 @@
 Analyzing banking data
 
 
-Courtesy of Google's BARD:
+Courtesy of Google's BARD artificial intelligence:
 
 ## Here are some ideas for data science projects to create using data on banks that failed and banks that needed assistance:
 
